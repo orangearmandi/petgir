@@ -36,6 +36,26 @@
    - Los administradores pueden añadir nuevas mascotas, editar las existentes o eliminarlas.
    ![Panel de Administración](imagenes/panel_administracion.PNG)
 
+7. **Foro de Adopción**
+   - Los usuarios pueden interactuar en el foro, compartir experiencias y recibir consejos sobre el proceso de adopción.
+   ![Foro](imagenes/foro.PNG)
+
+8. **Pantalla de Login de Administrador**
+   - Los administradores pueden iniciar sesión en su cuenta para gestionar el sistema y realizar funciones administrativas.
+   ![Login Admin](imagenes/loginadmin.PNG)
+
+9. **Menú de Administrador**
+   - El menú del administrador incluye accesos rápidos a las funciones principales del sistema, como gestión de usuarios y mascotas.
+   ![Menú Admin](imagenes/menuadmin.PNG)
+
+10. **Perfil de Fundación**
+    - Los usuarios pueden ver el perfil de la fundación, incluyendo detalles de contacto y misión.
+    ![Perfil Fundación](imagenes/perfil%20fundacion.PNG)
+
+11. **Perfil de Usuario**
+    - Los usuarios pueden gestionar y actualizar su perfil, incluyendo su información personal y estado de adopción.
+    ![Perfil Usuario](imagenes/usuario.PNG)
+
 ## Tecnologías
 
 - **Android Studio**: Para el desarrollo de la aplicación móvil.
@@ -48,4 +68,3 @@
 - Android Studio 4.1 o superior.
 - Conexión a internet para Firebase.
 - Cuenta de Firebase para configurar el proyecto.
-
